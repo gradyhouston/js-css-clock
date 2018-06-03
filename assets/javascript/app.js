@@ -1,5 +1,5 @@
 //
-// Clock
+// Javascript Clock
 //
 // by Grady Houston
 
