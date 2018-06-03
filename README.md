@@ -1,3 +1,1 @@
-A little JavaScript Clock
-
-Some JavaScript practice using timing logic.
+A simple, little JavaScript Clock using timing logic.
